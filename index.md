@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Poerna/wap.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-[google](https://m.google.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[google](https://www.google.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
